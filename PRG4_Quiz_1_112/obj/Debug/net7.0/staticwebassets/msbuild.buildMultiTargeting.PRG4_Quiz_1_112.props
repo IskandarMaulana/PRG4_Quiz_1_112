@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRG4_Quiz_1_112.props" />
+</Project>

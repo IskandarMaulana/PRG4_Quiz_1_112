@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG4_Quiz_1_112", "PRG4_Quiz_1_112\PRG4_Quiz_1_112.csproj", "{44D5B4AE-12F6-4DA1-9DA7-3CA071701983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D5B4AE-12F6-4DA1-9DA7-3CA071701983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D5B4AE-12F6-4DA1-9DA7-3CA071701983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D5B4AE-12F6-4DA1-9DA7-3CA071701983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D5B4AE-12F6-4DA1-9DA7-3CA071701983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AFFB828-56DB-478C-AF33-26510B4E72FF}
+	EndGlobalSection
+EndGlobal
